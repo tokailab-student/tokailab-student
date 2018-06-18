@@ -1,0 +1,11 @@
+unity表示用のカメラ位置座標(池田君向け）
+camera0.txt (GC-A-01)
+  〃  1.txt (GC-A-02)
+  〃  2.txt (GC-A-04)
+  〃  3.txt (GC-A-05)
+  〃  4.txt (GC-B-01)
+  〃  5.txt (GC-B-02)
+  〃  6.txt (GC-B-03)
+  〃  7.txt (GC-B-04)
+  〃  8.txt (GC-B-05)
+  〃  9.txt (GC-B-06)
